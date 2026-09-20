@@ -8,11 +8,11 @@ The project combines SQL Server, Tableau and Python to investigate business perf
 
 ### Executive Overview
 
-![Executive Overview](images/dashboard_1_overview.png)
+![Executive Overview](Images/dashboard_1_overview.png)
 
 ### Discount & Profitability Analysis
 
-![Discount & Profitability Analysis](images/dashboard_2_discount_profitability.png)
+![Discount & Profitability Analysis](Images/dashboard_2_discount_profitability.png)
 
 ## Project Overview
 
@@ -105,7 +105,7 @@ superstore-sales-profitability-analysis/
 ├── data/
 │   ├── download data.py
 │   └── superstore.csv
-├── images/
+├── Images/
 │   ├── dashboard_1_overview.png
 │   └── dashboard_2_discount_profitability.png
 ├── python/
@@ -122,7 +122,7 @@ superstore-sales-profitability-analysis/
 │   ├── Constraints
 │   └── Insights
 └── tableau/
-    └── Tableau workbook
+    └── Tableau workbook```
 
 ## How to Reproduce the Analysis
 
