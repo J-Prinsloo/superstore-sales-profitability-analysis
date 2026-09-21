@@ -34,7 +34,7 @@ The project uses SQL Server for data preparation and analysis, Tableau for inter
 - **Python** — Scenario analysis using pandas and matplotlib
 - **GitHub** — Project documentation and portfolio repository
 
-  ## Data & Methodology
+## Data & Methodology
 
 The project uses the Superstore dataset containing approximately 10,000 sales transactions across multiple regions, product categories and customer segments.
 
@@ -56,7 +56,7 @@ Python was used separately to perform a what-if analysis on Central region trans
 
 ### 1. Overall business performance improved
 
-Sales and profit increased substantially over the period analysed, indicating overall business growth. Profitability also improved compared with the earlier years in the dataset.
+Sales and profit increased substantially over the period analysed, indicating overall business growth. Profit margin also improved over the period analysed.
 
 ### 2. Higher discounting is associated with weaker profitability
 
