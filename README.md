@@ -98,7 +98,7 @@ Based on the analysis, the business should consider:
 - Testing lower discount levels and monitoring their effect on sales volume, profit and customer demand before making permanent changes.
 - Using profit margin alongside total profit when evaluating discount performance, as absolute profit alone can hide differences in profitability across products and regions.
 
-  ## Project Structure
+## Project Structure
 
 ```text
 superstore-sales-profitability-analysis/
@@ -122,7 +122,8 @@ superstore-sales-profitability-analysis/
 │   ├── Constraints
 │   └── Insights
 └── tableau/
-    └── Tableau workbook```
+    └── Tableau workbook
+```
 
 ## How to Reproduce the Analysis
 
